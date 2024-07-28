@@ -21,4 +21,8 @@ class Arts {
         return data[index % data.size]
     }
 
+    fun size():Int{
+        return data.size
+    }
+
 }

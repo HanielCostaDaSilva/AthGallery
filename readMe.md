@@ -12,8 +12,8 @@ O intuito deste projeto é a criação de `Components` dinâmicos através de `m
 
 ## Demonstração
  
-![Tela 1](/screens/screen1.png)
-
+![Demonstração](/screens/preview.gif)
+<!-- ![Tela 1](/screens/screen1.png)-->
 ## Considerações
 - Todas as imagens foram geradas através do [Leonardo AI](https://app.leonardo.ai)
 - Acesso ao curso de [Noções básicas do Android com o Compose ](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br)
